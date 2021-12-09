@@ -1,1 +1,2 @@
-# CSCE1030-Homework3
+# Trapezoids!
+Visualize a trapezoid from given user input
